@@ -45,7 +45,7 @@ button {
   height: 23.97%;
   top: 7.44%;
   left: 18.49%;
-  background: url("images/circle.png") no-repeat center;
+  background: url("circle.png") no-repeat center;
   background-size: 100% 100%;
   z-index: 22;
 }
@@ -55,7 +55,7 @@ button {
   height: 23.96%;
   top: 7.62%;
   left: 18.49%;
-  background: url("images/photo2.png")
+  background: url("photo2.png")
     no-repeat center;
   background-size: 100% 100%;
   z-index: 34;
@@ -117,7 +117,7 @@ button {
   width: 1090px;
   height: 1px;
   margin: 7px 0 0 1px;
-  background: url("images/Line1.png")
+  background: url("Line1.png")
     no-repeat center;
   background-size: cover;
   z-index: 2;
@@ -168,7 +168,7 @@ button {
   height: 270px;
   bottom: 23.25px;
   left: 50%;
-  background: url("images/Line2.png")
+  background: url("Line2.png")
     no-repeat center;
   background-size: cover;
   transform: translate(6578.02%, 0);
@@ -320,7 +320,7 @@ button {
   height: 15px;
   top: 119px;
   left: 189px;
-  background: url("images/p1.png")
+  background: url("p1.png")
     no-repeat center;
   background-size: cover;
   z-index: 25;
@@ -348,7 +348,7 @@ button {
   height: 15px;
   top: 172px;
   left: 189px;
-  background: url("./images/p2.png")
+  background: url("p2.png")
     no-repeat center;
   background-size: cover;
   z-index: 26;
@@ -469,7 +469,7 @@ button {
   height: 15px;
   top: 220px;
   left: 189px;
-  background: url("images/p3.png")
+  background: url("p3.png")
     no-repeat center;
   background-size: cover;
   z-index: 27;
@@ -590,7 +590,7 @@ button {
   height: 15px;
   top: 265px;
   left: 189px;
-  background: url("images/p4.png")
+  background: url("p4.png")
     no-repeat center;
   background-size: cover;
   z-index: 28;
