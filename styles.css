@@ -73,7 +73,7 @@ button {
   overflow: hidden;
   border-radius: 25px;
 }
-.sradhya-renish {
+.me {
   position: relative;
   width: 404px;
   height: 64px;
@@ -88,7 +88,7 @@ button {
   letter-spacing: -0.25px;
   z-index: 3;
 }
-.sradhya-renish-1 {
+.me1 {
   position: relative;
   color: #6600d3;
   font-family: Roboto, var(--default-font-family);
@@ -98,7 +98,7 @@ button {
   text-align: left;
   letter-spacing: -0.25px;
 }
-.second-year-student {
+.1st-year-student {
   display: block;
   position: relative;
   height: 42px;
